@@ -7,6 +7,6 @@
 
 #ENGLISH VERSION#
 
-  Hello, I am Gustavo, a Software Engineering student at Unicesumar. I am in my first year of the course and plan to graduate in 2027. I am passionate about programming and am always looking to learn new technologies and languages. 
+  Hello, I am Gustavo, a Software Engineering student at Unicesumar. I am in my first year of the course and plan to graduate in 2026. I am passionate about programming and am always looking to learn new technologies and languages. 
   I have knowledge in C++, HTML, Office Package, and other tools. Currently, I work as a PCP Assistant, but my goal is to work in the software development area. In this Github, you can find some of my personal and academic projects, which show my evolution and potential as a programmer. 
   I hope you like my work and feel free to contact me.
