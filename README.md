@@ -1,6 +1,6 @@
 #VERSÃO EM PORTUGUÊS#
   
-  Olá, eu sou Gustavo, um estudante de Engenharia de Software na Unicesumar. Estou no primeiro ano do curso e pretendo me formar em 2027. Sou apaixonado por programação e estou sempre buscando aprender novas tecnologias e linguagens. 
+  Olá, eu sou Gustavo, um estudante de Engenharia de Software na Unicesumar. Estou no primeiro ano do curso e pretendo me formar em 2026. Sou apaixonado por programação e estou sempre buscando aprender novas tecnologias e linguagens. 
   Tenho conhecimentos em C++, HTML, Pacote Office e outras ferramentas. Atualmente, trabalho como Auxiliar de PCP, mas meu objetivo é atuar na área de desenvolvimento de software. Neste Github, você pode encontrar alguns dos meus projetos pessoais e acadêmicos, que mostram a minha evolução e o meu potencial como programador. 
   Espero que você goste do meu trabalho e fique à vontade para entrar em contato comigo.
 
