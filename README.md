@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Olá, eu sou Gustavo, um estudante de Engenharia de Software na Unicesumar. Estou no quarto período e projeção de me formar em 2026. Sou apaixonado por programação e estou sempre buscando aprender novas tecnologias e linguagens. Tenho conhecimentos em C++, HTML, Pacote Office e outras ferramentas. Atualmente, trabalho como Suporte em Tecnologia da Informação na Farmácias Nissei, mas meu objetivo é atuar na área de desenvolvimento de software. Neste Github, você pode encontrar alguns dos meus projetos pessoais e acadêmicos, que mostram a minha evolução e o meu potencial como programador. Espero que você goste do meu trabalho e fique à vontade para entrar em contato comigo.</h2>
+<h2 align="center">Olá, eu sou Gustavo, um estudante de Engenharia de Software na Unicesumar. Estou no quarto período e projeção de me formar em 2026. Sou apaixonado por programação e estou sempre buscando aprender novas tecnologias e linguagens. Tenho conhecimentos em Python, SQL, HTML, Pacote Office e outras ferramentas. Atualmente, trabalho como Suporte em Tecnologia da Informação na Farmácias Nissei, mas meu objetivo é atuar na área de desenvolvimento de software. Neste Github, você pode encontrar alguns dos meus projetos pessoais e acadêmicos, que mostram a minha evolução e o meu potencial como programador. Espero que você goste do meu trabalho e fique à vontade para entrar em contato comigo.</h2>
 
 ###
 
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
